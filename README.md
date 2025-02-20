@@ -71,7 +71,7 @@ Galactic Guardians is a decentralized NFT platform that brings together a divers
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/galactic-guardians.git
+   git clone https://github.com/Pawar7349/Galactic_Guardians
    cd galactic-guardians
 
 2. **Install dependencies:**
